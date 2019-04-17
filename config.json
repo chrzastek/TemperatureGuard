@@ -1,0 +1,23 @@
+{
+  "TemperatureThreshold": "25",
+  "DHTSensorPinNumber": "11",
+
+  "LcdRsPinNumber": "32",
+  "LcdEPinNumber": "28",
+  "LcdData0PinNumber": "26",
+  "LcdData1PinNumber": "24",
+  "LcdData2PinNumber": "22",
+  "LcdData3PinNumber": "18",
+  "LcdData4PinNumber": "16",
+  "LcdData5PinNumber": "12",
+  "LcdData6PinNumber": "10",
+  "LcdData7PinNumber": "8",
+
+  "DiodePinNumber": "36",
+  "BuzzerPinNumber": "38",
+  "ButtonPinNumber": "40",
+
+  "DevicesDirectoryPath": "/sys/bus/w1/devices",
+  "ThermometerAddress": "28-01186ea73fff",
+  "ContentFileName": "w1_slave"
+}
