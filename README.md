@@ -24,3 +24,4 @@ if the temperature will exceed given threshold.
 </ul>
 
 <h2>Algorithm graph</h2>
+<img src="https://github.com/chrzastek/TemperatureGuard/blob/master/algorithm.png?raw=true"/>
